@@ -1,4 +1,4 @@
-![Banner](https://ssvvss.vercel.app/og)
+![Banner](https://schar.dev/og)
 
 ### Hey, I'm Saurabh.
 
