@@ -1,4 +1,4 @@
-[![Banner](https://schar.dev/og)](https://schar.dev)
+[![Banner](https://schar.dev/api/og)](https://schar.dev)
 
 ### Hey, I'm Saurabh.
 
