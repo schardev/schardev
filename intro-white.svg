@@ -11,6 +11,7 @@
 <rect width="1200" height="64" fill="#D7EF76" fill-opacity="0.6"/>
 </g>
 </g>
+<rect x="0.5" y="0.5" width="1199" height="499" rx="19.5" stroke="url(#paint5_linear_165_476)"/>
 <defs>
 <filter id="filter0_f_165_476" x="-300" y="-300" width="1800" height="664" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
@@ -36,6 +37,10 @@
 <linearGradient id="paint4_linear_165_476" x1="1128" y1="6" x2="1128" y2="500" gradientUnits="userSpaceOnUse">
 <stop offset="0.31533"/>
 <stop offset="1" stop-color="#FAFAFA" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint5_linear_165_476" x1="600" y1="0" x2="600" y2="500" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.13"/>
+<stop offset="1" stop-opacity="0"/>
 </linearGradient>
 <clipPath id="clip0_165_476">
 <rect width="1200" height="500" rx="20" fill="white"/>
