@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://schar.dev"><img alt="Portfolio Website" src="https://img.shields.io/badge/schar.dev-black?style=flat&logo=amp&logoColor=white&color=D7EF76&label=Website&labelColor=262626"></a>
-  <a href="https://twitter.com/saurabhcharde"><img alt="Twitter" src="https://img.shields.io/badge/@saurabhcharde-black?style=flat&logo=twitter&logoColor=white&color=D7EF76&label=Twitter&labelColor=262626"></a>
+  <a href="https://twitter.com/schar_dev"><img alt="Twitter" src="https://img.shields.io/badge/@schar__dev-black?style=flat&logo=twitter&logoColor=white&color=D7EF76&label=Twitter&labelColor=262626"></a>
   <a href="https://linkedin.com/in/schardev"><img alt="LinkedIn" src="https://img.shields.io/badge/schardev-black?style=flat&logo=linkedin&logoColor=white&color=D7EF76&label=LinkedIn&labelColor=262626"></a>
 </div>
 
