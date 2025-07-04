@@ -14,6 +14,6 @@
 
 ### Hey, I'm Saurabh.
 
-I'm a self-taught front-end web developer based in Maharashtra, India, with a passion for building clean and high performing web apps. Learning about how stuff works behind the scenes, and geeking out on web performance and security always get me excited.
+I'm a self-taught front-end web developer based in Maharashtra, India, with a passion for building clean and high performing web apps. Learning about how stuff works behind the scenes, and geeking out on web performance and security always gets me excited.
 
-When I'm not busy churning out code, you can probably find me watching anime or tinkering around with my Linux setup.
+When I'm not busy churning out code, you'll probably find me watching anime or tinkering around with my Linux setup.
